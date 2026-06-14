@@ -66,3 +66,6 @@ vocab/          generated vocabulary files
 results/        pipeline outputs
 corpus-info.xlsx  corpus metadata
 ```
+
+## AI statement
+Claude Sonnet 4.6 and Copilot was used to assist in code development and drafting of this README file.
