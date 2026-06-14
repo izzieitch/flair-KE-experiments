@@ -1,0 +1,45 @@
+{
+  "source_file": "williamson_1870_northChina_vol1.json",
+  "target_concept": "opium",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 2066,
+      "text": "Immorality abounds, and opium- \nsmoking is spreading like some terrible virus thi'ough \nall branches of the people, laying thousands of strong \nmen low.",
+      "tokens": [
+        "Immorality",
+        "abounds",
+        ",",
+        "and",
+        "opium-",
+        "smoking",
+        "is",
+        "spreading",
+        "like",
+        "some",
+        "terrible",
+        "virus",
+        "thi'ough",
+        "all",
+        "branches",
+        "of",
+        "the",
+        "people",
+        ",",
+        "laying",
+        "thousands",
+        "of",
+        "strong",
+        "men",
+        "low",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opium-"
+      ],
+      "ocr_quality": 80.77
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source_file": "huc_1928_tartaryThibet_vol2.json",
+  "target_concept": "opiate",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 2946,
+      "text": "§  45):  “  In  Hyrcania  plebs  publicos  alit \ncanes ;  optimates,  domesticos.",
+      "tokens": [
+        "§",
+        "45",
+        ")",
+        ":",
+        "“",
+        "In",
+        "Hyrcania",
+        "plebs",
+        "publicos",
+        "alit",
+        "canes",
+        ";",
+        "optimates",
+        ",",
+        "domesticos",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "optimates"
+      ],
+      "ocr_quality": 31.25
+    }
+  ]
+}

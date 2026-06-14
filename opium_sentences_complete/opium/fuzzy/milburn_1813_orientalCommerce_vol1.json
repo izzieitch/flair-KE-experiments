@@ -1,0 +1,29 @@
+{
+  "source_file": "milburn_1813_orientalCommerce_vol1.json",
+  "target_concept": "opium",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 8228,
+      "text": "Opium^..^vv,^^^^vvwcChest of 4 Surat maunds.",
+      "tokens": [
+        "Opium^",
+        "..",
+        "^vv",
+        ",",
+        "^^^^vvwcChest",
+        "of",
+        "4",
+        "Surat",
+        "maunds",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "Opium^"
+      ],
+      "ocr_quality": 30.0
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "source_file": "williamson_1870_northChina_vol2.json",
+  "target_concept": "opium",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 1766,
+      "text": "One of the carters, who was an opium- \nsmoker and half idiotic, objected, and we had to pack \nhis cart onrselyes ; next morning the cart was there, \nbat carter and mules had vanished.",
+      "tokens": [
+        "One",
+        "of",
+        "the",
+        "carters",
+        ",",
+        "who",
+        "was",
+        "an",
+        "opium-",
+        "smoker",
+        "and",
+        "half",
+        "idiotic",
+        ",",
+        "objected",
+        ",",
+        "and",
+        "we",
+        "had",
+        "to",
+        "pack",
+        "his",
+        "cart",
+        "onrselyes",
+        ";",
+        "next",
+        "morning",
+        "the",
+        "cart",
+        "was",
+        "there",
+        ",",
+        "bat",
+        "carter",
+        "and",
+        "mules",
+        "had",
+        "vanished",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opium-"
+      ],
+      "ocr_quality": 79.49
+    }
+  ]
+}

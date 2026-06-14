@@ -1,0 +1,92 @@
+{
+  "source_file": "fortune_1853_teaCountries_vol1.json",
+  "target_concept": "opium",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 1956,
+      "text": "So much has been said about this trade and opium- | \n\n\nsmoking, that a few remarks upon the subject will not \nbe out of place here.",
+      "tokens": [
+        "So",
+        "much",
+        "has",
+        "been",
+        "said",
+        "about",
+        "this",
+        "trade",
+        "and",
+        "opium-",
+        "|",
+        "smoking",
+        ",",
+        "that",
+        "a",
+        "few",
+        "remarks",
+        "upon",
+        "the",
+        "subject",
+        "will",
+        "not",
+        "be",
+        "out",
+        "of",
+        "place",
+        "here",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opium-"
+      ],
+      "ocr_quality": 85.71
+    },
+    {
+      "sentence_id": 1985,
+      "text": "The Chinese, who \nwere on the look-out at the time, made a great noise by \nbeating gongs and firing guns, and followed the opium- \nships until they were fairly outside.",
+      "tokens": [
+        "The",
+        "Chinese",
+        ",",
+        "who",
+        "were",
+        "on",
+        "the",
+        "look-out",
+        "at",
+        "the",
+        "time",
+        ",",
+        "made",
+        "a",
+        "great",
+        "noise",
+        "by",
+        "beating",
+        "gongs",
+        "and",
+        "firing",
+        "guns",
+        ",",
+        "and",
+        "followed",
+        "the",
+        "opium-",
+        "ships",
+        "until",
+        "they",
+        "were",
+        "fairly",
+        "outside",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opium-"
+      ],
+      "ocr_quality": 82.35
+    }
+  ]
+}

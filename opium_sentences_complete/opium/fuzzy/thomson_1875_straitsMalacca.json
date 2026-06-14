@@ -1,0 +1,86 @@
+{
+  "source_file": "thomson_1875_straitsMalacca.json",
+  "target_concept": "opium",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 3784,
+      "text": "The  old  man \nwas  laid  up  with  the  effects  of  rheumatism  and  opium- \nsmoking,  and  we  found  a  slave  girl  fanning  him  in  an \nadjoining  hut.",
+      "tokens": [
+        "The",
+        "old",
+        "man",
+        "was",
+        "laid",
+        "up",
+        "with",
+        "the",
+        "effects",
+        "of",
+        "rheumatism",
+        "and",
+        "opium-",
+        "smoking",
+        ",",
+        "and",
+        "we",
+        "found",
+        "a",
+        "slave",
+        "girl",
+        "fanning",
+        "him",
+        "in",
+        "an",
+        "adjoining",
+        "hut",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opium-"
+      ],
+      "ocr_quality": 89.29
+    },
+    {
+      "sentence_id": 3983,
+      "text": "During  my  stay  in  Foochow  I  was  introduced  to \none  of  these  beggar  kings  ;  he  was  an  inveterate  opium- \nsmoker,  and  consequently  in  reduced  circumstances.",
+      "tokens": [
+        "During",
+        "my",
+        "stay",
+        "in",
+        "Foochow",
+        "I",
+        "was",
+        "introduced",
+        "to",
+        "one",
+        "of",
+        "these",
+        "beggar",
+        "kings",
+        ";",
+        "he",
+        "was",
+        "an",
+        "inveterate",
+        "opium-",
+        "smoker",
+        ",",
+        "and",
+        "consequently",
+        "in",
+        "reduced",
+        "circumstances",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opium-"
+      ],
+      "ocr_quality": 85.71
+    }
+  ]
+}

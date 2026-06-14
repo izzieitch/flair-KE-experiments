@@ -1,0 +1,59 @@
+{
+  "source_file": "fortune_1847_northernChina.json",
+  "target_concept": "opium",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 3405,
+      "text": "THE    OPIUIM   TRADE.",
+      "tokens": [
+        "THE",
+        "OPIUIM",
+        "TRADE",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "OPIUIM"
+      ],
+      "ocr_quality": 50.0
+    },
+    {
+      "sentence_id": 3704,
+      "text": "The  Chinese  or  Nanking  cotton  plant  is  the  Gossy- \npium  herbaceum  of  botanists,  and  the  \"  Mie  wha^'  of \nthe  northern  Chinese.",
+      "tokens": [
+        "The",
+        "Chinese",
+        "or",
+        "Nanking",
+        "cotton",
+        "plant",
+        "is",
+        "the",
+        "Gossy-",
+        "pium",
+        "herbaceum",
+        "of",
+        "botanists",
+        ",",
+        "and",
+        "the",
+        "``",
+        "Mie",
+        "wha^",
+        "'",
+        "of",
+        "the",
+        "northern",
+        "Chinese",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "pium"
+      ],
+      "ocr_quality": 64.0
+    }
+  ]
+}

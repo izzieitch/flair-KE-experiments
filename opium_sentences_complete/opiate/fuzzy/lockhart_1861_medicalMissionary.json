@@ -1,0 +1,47 @@
+{
+  "source_file": "lockhart_1861_medicalMissionary.json",
+  "target_concept": "opiate",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 790,
+      "text": "The  mucous  membrane  of \nthe  stomach  and  bowels  was  evidently  extensively  ul- \ncerated ;  neither  medicine  nor  food  would  remain,  and \nopiates  gave  but  little  relief.",
+      "tokens": [
+        "The",
+        "mucous",
+        "membrane",
+        "of",
+        "the",
+        "stomach",
+        "and",
+        "bowels",
+        "was",
+        "evidently",
+        "extensively",
+        "ul-",
+        "cerated",
+        ";",
+        "neither",
+        "medicine",
+        "nor",
+        "food",
+        "would",
+        "remain",
+        ",",
+        "and",
+        "opiates",
+        "gave",
+        "but",
+        "little",
+        "relief",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opiates"
+      ],
+      "ocr_quality": 85.71
+    }
+  ]
+}

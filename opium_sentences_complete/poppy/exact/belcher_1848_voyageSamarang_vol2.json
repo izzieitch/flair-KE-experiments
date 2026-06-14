@@ -1,0 +1,49 @@
+{
+  "source_file": "belcher_1848_voyageSamarang_vol2.json",
+  "target_concept": "poppy",
+  "match_type": "exact",
+  "sentences": [
+    {
+      "sentence_id": 3188,
+      "text": "The \nglutinous sap of the Bomhax pientandriim is here applied \nto parts affected by Rheumatism, and the cottony seeds \nare used as soporific pillows, like those famous poppy \nones of Somnus.",
+      "tokens": [
+        "The",
+        "glutinous",
+        "sap",
+        "of",
+        "the",
+        "Bomhax",
+        "pientandriim",
+        "is",
+        "here",
+        "applied",
+        "to",
+        "parts",
+        "affected",
+        "by",
+        "Rheumatism",
+        ",",
+        "and",
+        "the",
+        "cottony",
+        "seeds",
+        "are",
+        "used",
+        "as",
+        "soporific",
+        "pillows",
+        ",",
+        "like",
+        "those",
+        "famous",
+        "poppy",
+        "ones",
+        "of",
+        "Somnus",
+        "."
+      ],
+      "exact_count": 1,
+      "ocr_quality": 85.29
+    }
+  ]
+}

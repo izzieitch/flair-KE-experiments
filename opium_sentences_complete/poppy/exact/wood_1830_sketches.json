@@ -1,0 +1,30 @@
+{
+  "source_file": "wood_1830_sketches.json",
+  "target_concept": "poppy",
+  "match_type": "exact",
+  "sentences": [
+    {
+      "sentence_id": 1908,
+      "text": "PatfM is in globular masses, covered witii \npoppy kaveSf9iXiA is in asemi-fluid state.",
+      "tokens": [
+        "PatfM",
+        "is",
+        "in",
+        "globular",
+        "masses",
+        ",",
+        "covered",
+        "witii",
+        "poppy",
+        "kaveSf9iXiA",
+        "is",
+        "in",
+        "asemi-fluid",
+        "state",
+        "."
+      ],
+      "exact_count": 1,
+      "ocr_quality": 60.0
+    }
+  ]
+}

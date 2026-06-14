@@ -1,0 +1,52 @@
+# -------------------------
+# Virtual environment
+# -------------------------
+venv/
+ENV/
+env/
+
+# -------------------------
+# Python cache and compiled files
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# macOS system files
+# -------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# -------------------------
+# VS Code workspace settings
+# -------------------------
+.vscode/
+
+# -------------------------
+# Jupyter Notebook checkpoints
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Log files
+# -------------------------
+*.log
+
+# -------------------------
+# Claude Code
+# -------------------------
+.claude/
+
+# -------------------------
+# Corpus (unpublished source texts)
+# -------------------------
+travelogues_txt/
+tokenizedSentences/
+
+# -------------------------
+# Other unwanted files
+# -------------------------
+*.swp
+*.swo

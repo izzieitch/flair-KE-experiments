@@ -1,0 +1,47 @@
+{
+  "source_file": "fortune_1852_teaSungLoBohea.json",
+  "target_concept": "opium",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 3899,
+      "text": "In the room next to mine, and only separated from \nit by a wooden partition, about a dozen opium- \nsmokers had taken up their quarters.",
+      "tokens": [
+        "In",
+        "the",
+        "room",
+        "next",
+        "to",
+        "mine",
+        ",",
+        "and",
+        "only",
+        "separated",
+        "from",
+        "it",
+        "by",
+        "a",
+        "wooden",
+        "partition",
+        ",",
+        "about",
+        "a",
+        "dozen",
+        "opium-",
+        "smokers",
+        "had",
+        "taken",
+        "up",
+        "their",
+        "quarters",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "opium-"
+      ],
+      "ocr_quality": 85.71
+    }
+  ]
+}

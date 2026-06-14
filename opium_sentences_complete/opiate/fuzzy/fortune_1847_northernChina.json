@@ -1,0 +1,53 @@
+{
+  "source_file": "fortune_1847_northernChina.json",
+  "target_concept": "opiate",
+  "match_type": "fuzzy",
+  "fuzzy_threshold": 0.85,
+  "sentences": [
+    {
+      "sentence_id": 5316,
+      "text": "In  a  minute  or  two \nI  could  see  nothing  but  boards  and  shields,  which \n\n\n398 \n\n\nPIEATES    DISAPPEAR.",
+      "tokens": [
+        "In",
+        "a",
+        "minute",
+        "or",
+        "two",
+        "I",
+        "could",
+        "see",
+        "nothing",
+        "but",
+        "boards",
+        "and",
+        "shields",
+        ",",
+        "which",
+        "398",
+        "PIEATES",
+        "DISAPPEAR",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "PIEATES"
+      ],
+      "ocr_quality": 78.95
+    },
+    {
+      "sentence_id": 5351,
+      "text": "THE    PIUATES    AGAIN.",
+      "tokens": [
+        "THE",
+        "PIUATES",
+        "AGAIN",
+        "."
+      ],
+      "fuzzy_count": 1,
+      "fuzzy_tokens": [
+        "PIUATES"
+      ],
+      "ocr_quality": 50.0
+    }
+  ]
+}
